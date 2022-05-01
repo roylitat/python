@@ -1,17 +1,6 @@
-#abcd
+scores =[90,70,60,50,80]
+friends =["a","b","c"]
+things = [90,"black",True]
+scores.sort()
 
-print(" /|")
-
-#123
-
-print("/_|")
-
-name = "name"
-age = 89
-
-print("abc" + name)
-
-number1 = input("enter 1")
-number2 = input("enter 2")
-
-print(float(number1) + float(number2))
+print(scores)
